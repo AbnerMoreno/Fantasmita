@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2c3a47;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ghost{
+    height: 160px;
+    width: 140px;
+    background-color: white;
+    border-radius: 50% 50% 0 0;
+    cursor: pointer;
+    position: relative;
+}
